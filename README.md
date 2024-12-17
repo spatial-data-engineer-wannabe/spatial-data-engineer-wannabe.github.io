@@ -71,6 +71,12 @@ University of the Philippines — 4th year standing
      Through spatial analysis, our project revealed which areas in Quezon City lack adequate access to cooling green spaces, offering valuable insights to urban         planners for targeted urban greening initiatives. The bivariate map captures the spatial distribution of LST in relation to walking accessibility to urban          parks, effectively highlighting thermal inequities and park cooling influence.
 
    - [View the Code Here!](https://drive.google.com/file/d/1Qbb30tNsHBCD_5Ubzah1aq5KfR_AF6D_/view?usp=sharing)
+
+     *Note: The code only includes LST retrieval and isochrones. If you want to download the QGIS file you can access it through this [link]                       
+       (https://drive.google.com/drive/folders/1gp95bhiu_aGbU-zLPJfUqC9a72S20veE?usp=sharing).
+
+     Alternatively, you can just view the maps below :)
+     
    - **Map Outputs**
      -![Balara Filters Park](assets/BALARA_FILTERS_PARK.png)
      -![La Mesa Eco Park](assets/LA_MESA_ECO_PARK.png)
