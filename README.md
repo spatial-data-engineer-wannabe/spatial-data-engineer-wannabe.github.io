@@ -8,37 +8,31 @@ Hi! I'm an inquisitive and purpose-driven geodetic engineering student equipped 
 ## 🔧 Skills
 - **Programming Languages:** Python 
 - **Tools and Software:** QGIS, ArcGIS, AutoCAD Civil 3D, SketchUp, SNAP, Google Earth Engine, Agisoft Metashape
-- **Specialized Skills:** [Mention domain-specific skills, e.g., landscape analysis, stormwater management system design, urban cooling effects analysis]
+
 
 ---
 
 ## 🚀 Projects
-### 1. **E-LANG Dormitory Management System**
+### 1. **Building Density Exercise**
    - **Description:** Streamlined university dormitory operations by consolidating records into a cohesive system with personalized QR code integration.
-   - **Technologies:** [List technologies used, e.g., HTML, CSS, JavaScript, etc.]
-   - [View Repository](#)
+   - **Key Activities:** [List technologies used, e.g., HTML, CSS, JavaScript, etc.]
+   - [View Repository](https://drive.google.com/file/d/1BSuEyA8OBftwujxce9dmZ7pclmz6AOb0/view?usp=sharing)
 
-### 2. **Metro Manila Urban Parks Cooling Effect Analysis**
-   - **Description:** Assessed urban parks' cooling effects using landscape metrics and the TVoE approach.
-   - **Technologies:** QGIS, [Other relevant tools].
-   - [View Repository](#)
+### 2. **Analyzing Rental Places Data in Metro Manila**
+   - **Description:** 
+   - **Key Activities:** 
+   - [View Repository](https://drive.google.com/file/d/1_lL7jQSbrut_Io7OxJWJyDGubs7zaNJD/view?usp=sharing)
 
-### 3. **Stormwater Drainage Management System**
+### 3. **Mapping Urban Cooling Relief Accessibility of Selected Parks in Quezon City**
    - **Description:** Designed an efficient stormwater drainage system for flat terrain agricultural land.
-   - **Technologies:** [List tools and frameworks used.]
-   - [View Repository](#)
+   - **Key Activities:** Land Surface Temperature (LST) mapping, walking isochrones mapping, and bivariate mapping
+   - [View Repository](https://drive.google.com/file/d/1Qbb30tNsHBCD_5Ubzah1aq5KfR_AF6D_/view?usp=sharing)
 
-### 4. **Urban Heat Relief Mapping**
-   - **Description:** Created a mapping project highlighting accessibility to green spaces for heat relief in Metro Manila.
-   - **Technologies:** QGIS, [Other relevant tools].
-   - [View Repository](#)
-
----
 
 ## 📬 Contact
-- **Email:** [Your email address]
-- **LinkedIn:** [Your LinkedIn profile link]
-- **GitHub:** [Your GitHub profile link]
+- **Email:** [jcguadalupe@up.edu.ph or guadalupejoem13@gmail.com]
+- **LinkedIn:** [[Check me on LinkedIn](https://www.linkedin.com/in/joem-guadalupe-4b4a662b9/)]
+
 
 Feel free to explore my projects and reach out if you have questions or collaboration opportunities!
 
