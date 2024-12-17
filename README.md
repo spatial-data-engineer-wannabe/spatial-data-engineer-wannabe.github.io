@@ -72,10 +72,10 @@ University of the Philippines — 4th year standing
 
    - [View the Code Here!](https://drive.google.com/file/d/1Qbb30tNsHBCD_5Ubzah1aq5KfR_AF6D_/view?usp=sharing)
    - **Map Outputs**
-     -![Balara Filters Park](assets/BALARA FILTERS PARK.png)
-     -![La Mesa Eco Park](assets/your-image-filename.ext)
-     -![Ninoy Aquino Parks AND Wildlife Center](assets/your-image-filename.ext)
-     -![UP Arboretum](assets/your-image-filename.ext)
+     -![Balara Filters Park](assets/BALARA_FILTERS_PARK.png)
+     -![La Mesa Eco Park](assets/LA_MESA_ECO_PARK.png)
+     -![Ninoy Aquino Parks AND Wildlife Center](assets/NINOY_AQUINO_PARKS_AND_WILDLIFE_CENTER.png)
+     -![UP Arboretum](assets/UP_ARBORETUM.png)
      
      
 
