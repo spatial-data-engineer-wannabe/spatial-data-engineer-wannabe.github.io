@@ -4,19 +4,19 @@ Welcome to my Spatial Data Science Portfolio! This space highlights my growing j
 
 ## 👩‍💻 About Me
 Hi! I'm an inquisitive and purpose-driven geodetic engineering student equipped with a solid foundation in both theoretical and technical aspects of surveying, GIS, remote sensing, photogrammetry, and geodesy. In addition to these fields, I'm also trying to explore the growing world of spatial data science, aiming to harness its potential to produce meaningful analyses and insights from spatial data!
-
+---
 ## 🎓 Education
-
+---
 ### Bachelor of Science in Geodetic Engineering Undergraduate
 University of the Philippines — 4th year standing
 
-
+---
 ## 💼 Work Experience
 
 ### Geodetic Engineering Intern  
 **AB Surveying and Development Intern** — July 2024 to August 2024 
 
-
+---
 ## 🔧 Skills
 - **Programming Languages:** Python 
 - **Tools and Software:** QGIS, ArcGIS, AutoCAD Civil 3D, SketchUp, SNAP, Google Earth Engine, Agisoft Metashape
