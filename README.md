@@ -4,7 +4,7 @@ Welcome to my Spatial Data Science Portfolio! This space highlights my growing j
 
 
 ## 👩‍💻 About Me
-Hi! I'm an nquisitive and purpose-driven geodetic engineering student equipped with a solid foundation in both theoretical and technical aspects of surveying, GIS, remote sensing, photogrammetry, and geodesy. In addition to these fields, I'm also trying to explore the growing world of spatial data science, aiming to harness its potential to produce meaningful analyses and insights from spatial data!
+Hi! I'm an inquisitive and purpose-driven geodetic engineering student equipped with a solid foundation in both theoretical and technical aspects of surveying, GIS, remote sensing, photogrammetry, and geodesy. In addition to these fields, I'm also trying to explore the growing world of spatial data science, aiming to harness its potential to produce meaningful analyses and insights from spatial data!
 
 ## 🔧 Skills
 - **Programming Languages:** Python 
