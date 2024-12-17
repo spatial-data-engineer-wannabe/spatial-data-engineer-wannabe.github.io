@@ -72,14 +72,14 @@ University of the Philippines — 4th year standing
 
    - [View the Code Here!](https://drive.google.com/file/d/1Qbb30tNsHBCD_5Ubzah1aq5KfR_AF6D_/view?usp=sharing)
 
-     *Note: The code only includes LST retrieval and isochrones. If you want to download the QGIS file you can access it through this [link](https://drive.google.com/drive/folders/1gp95bhiu_aGbU-zLPJfUqC9a72S20veE?usp=sharing)
+     *Note: The code only includes LST retrieval and isochrones. If you want to download the QGIS file for the bivariate map you can access it through this [link](https://drive.google.com/drive/folders/1gp95bhiu_aGbU-zLPJfUqC9a72S20veE?usp=sharing)
 
      Alternatively, you can just view the maps below :)
      
    - **Map Outputs**
      -![Balara Filters Park](assets/BALARA_FILTERS_PARK.png)
      -![La Mesa Eco Park](assets/LA_MESA_ECO_PARK.png)
-     -![Ninoy Aquino Parks AND Wildlife Center](assets/NINOY_AQUINO_PARKS_AND_WILDLIFE_CENTER.png)
+     -![Ninoy Aquino Parks and Wildlife Center](assets/NINOY_AQUINO_PARKS_AND_WILDLIFE_CENTER.png)
      -![UP Arboretum](assets/UP_ARBORETUM.png)
      
      
