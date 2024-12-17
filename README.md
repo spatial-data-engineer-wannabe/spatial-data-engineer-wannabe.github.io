@@ -1,6 +1,6 @@
 # Spatial Data Science Enthusiast
 Welcome to my Spatial Data Science Portfolio! This space highlights my growing journey as a spatial data science enthusiast and showcases the skills demonstrated through my projects.
-
+![Logo](github_pofile_pic.jpg)
 
 
 ## 👩‍💻 About Me
