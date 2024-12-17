@@ -36,7 +36,7 @@ University of the Philippines — 4th year standing
 
      This exercise aims to analyze and visualize building density in Makati City, Philippines, using data from OpenStreetMap. Its goal is to provide insights            into the distribution of buildings within the city's boundaries. Essentially, the process begins by importing necessary libraries and mounting Google Drive         for importing and exporting files. Building features and their corresponding footprints were retrieved to obtain data for building density calculations. To         provide insights into the degree of urbanization, the total building area was calculated and the building density was determined as the ratio of the total          building area with the total area of the city. It further analyzes building density within the barangays of Makati City by computing the density for each.          Finally, the code generates a visual map displaying building density across barangays, with labels for easy identification. 
 
-   - [View Repository](https://drive.google.com/file/d/1BSuEyA8OBftwujxce9dmZ7pclmz6AOb0/view?usp=sharing)
+   - [View the Code Here!](https://drive.google.com/file/d/1BSuEyA8OBftwujxce9dmZ7pclmz6AOb0/view?usp=sharing)
 
 ### 2. **Analyzing Rental Places Data in Metro Manila**
    - **Description:** Comprehensive analysis of rental places in Metro Manila, specifically examining variables that influence rental prices using proximity    analysis, statistical analyses (correlation matrix and Moran's I), and spatial regression models.
@@ -45,13 +45,15 @@ University of the Philippines — 4th year standing
         -Proximity Analysis
         -Statistical Analysis
         -Regression Modelling
+
      
-   - [View Repository](https://drive.google.com/file/d/1_lL7jQSbrut_Io7OxJWJyDGubs7zaNJD/view?usp=sharing)
+     
+   - [View the Code Here!](https://drive.google.com/file/d/1_lL7jQSbrut_Io7OxJWJyDGubs7zaNJD/view?usp=sharing)
 
 ### 3. **Mapping Urban Cooling Relief Accessibility of Selected Parks in Quezon City**
    - **Description:** Designed an efficient stormwater drainage system for flat terrain agricultural land.
    - **Key Activities:** Land Surface Temperature (LST) mapping, walking isochrones mapping, and bivariate mapping
-   - [View Repository](https://drive.google.com/file/d/1Qbb30tNsHBCD_5Ubzah1aq5KfR_AF6D_/view?usp=sharing)
+   - [View the Code Here!](https://drive.google.com/file/d/1Qbb30tNsHBCD_5Ubzah1aq5KfR_AF6D_/view?usp=sharing)
 
 
 ## 📬 Contact
