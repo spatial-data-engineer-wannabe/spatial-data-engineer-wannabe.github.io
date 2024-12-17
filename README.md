@@ -47,6 +47,11 @@ University of the Philippines — 4th year standing
         -Regression Modelling
 
      
+
+
+     Using rental property data from TripAdvisor, the spatial context of the properties was assessed by identifying nearby restaurants and drivable roads. The           distances from the rental properties to the nearest restaurants and roads were calculated and stored in a new column for analysis. Additionally, the base           daily rates of the properties were mapped to visualize their distribution. To prepare for spatial regression and spatial autocorrelation analyses, a                correlation matrix was created to assess multicollinearity among the variables. The Moran’s I statistic was also calculated to determine the clustering or          dispersion of the properties based on rental prices. Finally, regression models were generated to evaluate the influence of the identified factors on the           rental prices of properties in Metro Manila from a spatial perspective. The results indicated that the number of bathrooms has the most significant influence       on rental prices.
+
+     
      
    - [View the Code Here!](https://drive.google.com/file/d/1_lL7jQSbrut_Io7OxJWJyDGubs7zaNJD/view?usp=sharing)
 
@@ -55,7 +60,7 @@ University of the Philippines — 4th year standing
    - **Key Activities:** Land Surface Temperature (LST) mapping, walking isochrones mapping, and bivariate mapping
    - [View the Code Here!](https://drive.google.com/file/d/1Qbb30tNsHBCD_5Ubzah1aq5KfR_AF6D_/view?usp=sharing)
 
-
+---
 ## 📬 Contact
 - **Email:** jcguadalupe@up.edu.ph
 - **LinkedIn:** [Check me out on LinkedIn!](https://www.linkedin.com/in/joem-guadalupe-4b4a662b9/)]
