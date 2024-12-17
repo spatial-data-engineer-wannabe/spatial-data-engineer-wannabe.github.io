@@ -57,15 +57,28 @@ University of the Philippines — 4th year standing
 
 ### 3. **Mapping Urban Cooling Relief Accessibility of Selected Parks in Quezon City**
    - **Description:** Designed an efficient stormwater drainage system for flat terrain agricultural land.
-   - **Key Activities:** Land Surface Temperature (LST) mapping, walking isochrones mapping, and bivariate mapping
+   - **Key Activities:**
+        -Land Surface Temperature (LST) mapping
+        -Walking isochrones mapping
+        -Bivariate mapping
+
+     Our capstone project, “Mapping Urban Cooling Relief Accessibility of Selected Parks in Quezon City,” aims to identify and map:
+
+        1. Green Spaces: Public parks that can serve as urban cooling zones.
+        2. Heat Zones: Areas with high land surface temperatures (LST).
+        3. Accessibility Analysis: The proximity of residents to green spaces within a 10, 20, and 30-minute walking range.
+      
+     Through spatial analysis, our project revealed which areas in Quezon City lack adequate access to cooling green spaces, offering valuable insights to urban         planners for targeted urban greening initiatives. The bivariate map captures the spatial distribution of LST in relation to walking accessibility to urban          parks, effectively highlighting thermal inequities and park cooling influence.
+
    - [View the Code Here!](https://drive.google.com/file/d/1Qbb30tNsHBCD_5Ubzah1aq5KfR_AF6D_/view?usp=sharing)
+   - **Map Outputs**
 
 ---
 ## 📬 Contact
 - **Email:** jcguadalupe@up.edu.ph
-- **LinkedIn:** [Check me out on LinkedIn!](https://www.linkedin.com/in/joem-guadalupe-4b4a662b9/)]
+- **LinkedIn:** [Check me out on LinkedIn!](https://www.linkedin.com/in/joem-guadalupe-4b4a662b9/)
 
 
-Feel free to explore my projects and reach out if you have questions or collaboration opportunities!
+Feel free to explore my projects and reach out if you have inquiries!
 
 
