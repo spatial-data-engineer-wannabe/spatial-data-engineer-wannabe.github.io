@@ -56,7 +56,6 @@ University of the Philippines — 4th year standing
    - [View the Code Here!](https://drive.google.com/file/d/1_lL7jQSbrut_Io7OxJWJyDGubs7zaNJD/view?usp=sharing)
 
 ### 3. **Mapping Urban Cooling Relief Accessibility of Selected Parks in Quezon City**
-   - **Description:** Designed an efficient stormwater drainage system for flat terrain agricultural land.
    - **Key Activities:**
         -Land Surface Temperature (LST) mapping
         -Walking isochrones mapping
